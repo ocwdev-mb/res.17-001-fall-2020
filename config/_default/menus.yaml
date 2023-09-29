@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-e18b56ab0e0a43279cfa867540a2b624
+  name: MIT ELECTION DATA AND SCIENCE LAB
+  url: https://electionlab.mit.edu
+  weight: 1000
